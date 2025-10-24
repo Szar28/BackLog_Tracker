@@ -1,0 +1,23 @@
+{
+  "name": "backlog_tracker",
+  "version": "1.0.0",
+  "description": "backlog tracker for video games",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Szar28/BackLog_Tracker.git"
+  },
+  "author": "Matt S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Szar28/BackLog_Tracker/issues"
+  },
+  "homepage": "https://github.com/Szar28/BackLog_Tracker#readme",
+  "devDependencies": {
+    "electron": "^38.4.0"
+  }
+}
